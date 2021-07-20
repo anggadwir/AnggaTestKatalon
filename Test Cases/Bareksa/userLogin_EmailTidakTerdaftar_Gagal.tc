@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>userLogin_EmailTidakTerdaftar_Gagal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0b8cbd9-6d8b-4392-9ced-ef9492b62b7f</testCaseGuid>
+</TestCaseEntity>

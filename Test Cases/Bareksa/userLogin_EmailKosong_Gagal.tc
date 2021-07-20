@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>userLogin_EmailKosong_Gagal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc576435-e109-433f-9bf2-1ba0dc3aadbe</testCaseGuid>
+</TestCaseEntity>
