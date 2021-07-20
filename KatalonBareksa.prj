@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>katalon_ecommerce_B3</name>
+   <name>KatalonBareksa</name>
    <tag></tag>
-   <UUID>2c900fa8-e468-4195-adcf-1143441b381a</UUID>
+   <UUID>354eb251-f597-442d-9673-11b6bf1071bf</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
