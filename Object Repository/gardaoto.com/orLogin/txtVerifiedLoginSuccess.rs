@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>loginBtn</name>
+   <name>txtVerifiedLoginSuccess</name>
    <tag></tag>
-   <elementGuidId>4057298d-1bea-4876-bc10-379c69a7c60f</elementGuidId>
+   <elementGuidId>bb528a1e-db0c-445e-aa03-e8d037991935</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;post-11752&quot;]/div/div[1]/div/div/div/div[1]/div/div[4]/div[1]/div/div[4]/h1</value>
+      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;login-btn&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Katalon</name>
+   <name>katalon_ecommerce_B3</name>
    <tag></tag>
-   <UUID>14737ba5-a6e4-4414-be38-feb05e30b80b</UUID>
+   <UUID>2c900fa8-e468-4195-adcf-1143441b381a</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>

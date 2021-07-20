@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>emailInputText</name>
+   <name>link_katalog</name>
    <tag></tag>
-   <elementGuidId>0dd2893c-7d90-43d6-90f2-26d4bd3d37e0</elementGuidId>
+   <elementGuidId>91cecfbb-374c-4801-a597-d3cd01f3ef20</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;email&quot;]</value>
+         <value>//a[@href='https://www.hdistore.com/katalog.html'][text()='Katalog']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

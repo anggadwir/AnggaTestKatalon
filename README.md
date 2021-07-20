@@ -1,2 +1,0 @@
-# AnggaTestKatalon
-Test Katalon Bareksa
